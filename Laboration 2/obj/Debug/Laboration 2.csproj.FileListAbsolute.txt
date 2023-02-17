@@ -1,0 +1,11 @@
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\bin\Debug\Laboration 2.exe.config
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\bin\Debug\Laboration 2.exe
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\bin\Debug\Laboration 2.pdb
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\obj\Debug\Laboration 2.csproj.AssemblyReference.cache
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\obj\Debug\Laboration 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\obj\Debug\Laboration_2.Properties.Resources.resources
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\obj\Debug\Laboration 2.csproj.GenerateResource.cache
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\obj\Debug\Laboration 2.csproj.CoreCompileInputs.cache
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\obj\Debug\Laboration 2.exe
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\obj\Debug\Laboration 2.pdb
+C:\Users\DELTA\source\repos\Laboration 2\Laboration 2\obj\Debug\Laboration_2.MainForm.resources
